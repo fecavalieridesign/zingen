@@ -39,6 +39,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    z-index: 1;
   }
 }
 
