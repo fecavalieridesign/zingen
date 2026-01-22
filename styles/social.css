@@ -4,9 +4,6 @@ a.social {
   width: 1.5rem;
   height: 1.5rem;
   display: block;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
 
   --webkit-background-clip: initial;
   background-clip: initial;
