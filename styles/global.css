@@ -23,7 +23,7 @@
 
   --ff-sans: "Inter", system-ui, sans-serif;
   --fw-base: 400;
-  --fw-medium: 500;
+  --fw-md: 500;
   --fw-bold: 800;
 
   --fs-sm: 0.875rem;
@@ -85,6 +85,10 @@ a:hover {
   --webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+}
+
+img {
+  max-width: 100%;
 }
 
 ul [role="list"] {
